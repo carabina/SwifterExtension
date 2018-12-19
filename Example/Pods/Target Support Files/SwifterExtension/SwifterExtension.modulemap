@@ -1,0 +1,6 @@
+framework module SwifterExtension {
+  umbrella header "SwifterExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

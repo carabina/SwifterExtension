@@ -1,0 +1,16 @@
+PODS:
+  - SwifterExtension (1.0.0)
+
+DEPENDENCIES:
+  - SwifterExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SwifterExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwifterExtension: b1d5834a018de98fa0d70849fa33496ae5ad910d
+
+PODFILE CHECKSUM: e9444d9d3e965e4fc5681ec68b4b8dd9fa5ebcab
+
+COCOAPODS: 1.5.3

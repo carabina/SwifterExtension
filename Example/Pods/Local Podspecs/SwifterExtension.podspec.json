@@ -1,0 +1,26 @@
+{
+  "name": "SwifterExtension",
+  "version": "1.0.0",
+  "summary": "SwifterExtension is a extension swift for iOS app",
+  "description": "SwifterExtension is a extension swift for iOS app",
+  "homepage": "https://github.com/duchv2307/SwifterExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "duchv2307": "duchv2307@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/duchv2307/SwifterExtension.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwifterExtension/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}
